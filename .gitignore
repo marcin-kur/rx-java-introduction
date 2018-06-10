@@ -1,0 +1,10 @@
+build/
+.idea/
+*.iml
+out/
+logs/
+.gradle/
+gradle/
+settings.gradle
+gradlew.*
+gradlew
